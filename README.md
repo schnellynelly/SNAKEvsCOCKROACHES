@@ -67,5 +67,4 @@ djartmusic-fun-with-my-8-bit-game-301278.mp3
 ```
 
 ## License
-
-Add your preferred license before publishing publicly.
+MIT
