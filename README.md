@@ -4,7 +4,8 @@ A Nokia inspired 8 bit Snake vs Cockroaches game powered by Deep Q Learning.
 
 The agent learns using a Deep Q Network, replay memory, epsilon greedy exploration, and live Q value visualization.
 
-![Game Demo](assets/demo.gif)
+<img width="1215" height="852" alt="Animation" src="https://github.com/user-attachments/assets/678912ed-6f66-4b73-a84f-2c02801979aa" />
+
 
 ## Features
 
